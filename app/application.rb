@@ -5,3 +5,4 @@ class application
     binding.pry
     resp.finish
   end
+end
